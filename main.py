@@ -109,6 +109,10 @@ print(first_tuple + second_tuple)
 
 print (int (sum(first_tuple)) + (sum(second_tuple)))
 
+companies = {"BMW", "Lada", "KFC"}
+tech_companies = ["Apple", "ZTE", "OMA" 'BMW']
+companies.update(tech_companies)
+print(companies)
 
 
 
