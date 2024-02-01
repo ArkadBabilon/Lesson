@@ -57,10 +57,16 @@ substring = text[-2]
 #print(cross)
 #print(cross[2][1] + cross[1][0] + a)
 
-list = [1, 2, 3, "Hello", True, False]
-print(list)
-list[1] = 7
-print(list[0:6:2])
-for i in list:
-    print(i)
+#list = [1, 2, 3, "Hello", True, False]
+#print(list)
+#list[1] = 7
+#print(list[0:6:2])
+#for i in list:
+#    print(i)
+
+list = [1, 2, 3]
+d1, d2, d3 = list
+print(d1)
+print(d2)
+print(d3)
 
