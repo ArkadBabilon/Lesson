@@ -41,7 +41,8 @@ z = y + 5
 list = [1, 2, 3, "Hello"]
 print(list)
 #for i in list:
-    print(i)
+#    print(i)
 for i in list:
-    print(i)
+    print(i, end=" ")
+
 
