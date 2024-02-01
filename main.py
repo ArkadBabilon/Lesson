@@ -73,5 +73,21 @@ substring = text[-2]
 #data = [i for i in range(0,10001)]
 #print(data)
 
-data = [i for i in range(0,1001) if i % 2 == 0]
+#data = [i for i in range(0,1001) if i % 2 == 0]
+#print(data)
+
+data = [i for i in range(0,101) if i % 10 == 0]
 print(data)
+count = 0
+for i in data:
+    count+=1 #count = count + 1
+
+data = [i for i in range(0,101) if i % 10 == 0]
+print(data)
+count = 0
+for i in data:
+    count+=1
+
+print(count)
+
+
