@@ -73,5 +73,5 @@ substring = text[-2]
 #data = [i for i in range(0,10001)]
 #print(data)
 
-data = [i for i in range(0,10001) if i % 2 == 0]
+data = [i for i in range(0,1001) if i % 2 == 0]
 print(data)
