@@ -42,7 +42,7 @@ list = [1, 2, 3, "Hello"]
 print(list)
 #for i in list:
 #    print(i)
-for i in list:
-    print(i, end=" ")
+#for i in list:
+#    print(i, end=" ")
 
 
