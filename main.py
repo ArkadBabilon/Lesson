@@ -94,4 +94,18 @@ a = (1, 2, 3)
 b = [1, 2, 3]
 print(a.__sizeof__())
 print(b.__sizeof__())
+#
+#my_tuple =
+
+x = 5
+y = 10
+x, y = y, x
+print(x)
+print(y)
+
+first_tuple = (1, 2, 3)
+second_tuple = (4, 5, 6)
+print(first_tuple + second_tuple)
+
+print(sum(first_tuple))
 
