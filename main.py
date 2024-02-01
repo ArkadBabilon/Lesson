@@ -70,3 +70,6 @@ print(d1)
 print(d2)
 print(d3)
 
+data = [i for i in range(0,10001)]
+print(data)
+
