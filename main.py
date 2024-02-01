@@ -33,8 +33,10 @@ y = "Hello"
 
 x = 5
 neg = x
-print(x)
+#print(x)
 y = 5+5
-print(y)
+#print(y)
 z = y + 5
-print(z)
+#print(z)
+
+
