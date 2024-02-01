@@ -40,7 +40,8 @@ z = y + 5
 #print(z)
 list = [1, 2, 3, "Hello"]
 print(list)
+#for i in list:
+    print(i)
 for i in list:
     print(i)
-
 
