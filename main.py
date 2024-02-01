@@ -103,12 +103,14 @@ x, y = y, x
 print(x)
 print(y)
 
+# Кортеж
 first_tuple = (1, 2, 3)
 second_tuple = (4, 5, 6)
 print(first_tuple + second_tuple)
 
 print (int (sum(first_tuple)) + (sum(second_tuple)))
 
+#Множество
 companies = {"BMW", "Lada", "KFC"}
 tech_companies = ["Apple", "ZTE", "OMA" 'BMW']
 companies.update(tech_companies)
