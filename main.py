@@ -38,11 +38,17 @@ y = 5+5
 #print(y)
 z = y + 5
 #print(z)
-list = [1, 2, 3, "Hello"]
-print(list)
+#list = [1, 2, 3, "Hello"]
+#print(list)
 #for i in list:
 #    print(i)
 #for i in list:
 #    print(i, end=" ")
+cross = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print(cross)
+print(cross[2][1])
+cross = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print(cross)
+print(cross[2][1], cross[1][0])
 
 
