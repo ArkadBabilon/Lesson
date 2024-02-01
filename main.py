@@ -112,7 +112,7 @@ print (int (sum(first_tuple)) + (sum(second_tuple)))
 
 #Множество
 companies = {"BMW", "Lada", "KFC"}
-tech_companies = ["Apple", "ZTE", "OMA" 'BMW']
+tech_companies = ["Apple", "ZTE", "OMA", "BMW"]
 companies.update(tech_companies)
 print(companies)
 
