@@ -27,16 +27,16 @@ text = "hello"
 substring = text[-2]
 #print(substring)
 
-x = 5
-y = "Hello"
+#x = 5
+#y = "Hello"
 #print(f"{x} + {y}")
 
-x = 5
-neg = x
+#x = 5
+#neg = x
 #print(x)
-y = 5+5
+#y = 5+5
 #print(y)
-z = y + 5
+#z = y + 5
 #print(z)
 
 #list = [1, 2, 3, "Hello"]
