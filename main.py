@@ -64,12 +64,14 @@ substring = text[-2]
 #for i in list:
 #    print(i)
 
-list = [1, 2, 3]
-d1, d2, d3 = list
-print(d1)
-print(d2)
-print(d3)
+#list = [1, 2, 3]
+#d1, d2, d3 = list
+#print(d1)
+#print(d2)
+#print(d3)
 
-data = [i for i in range(0,10001)]
+#data = [i for i in range(0,10001)]
+#print(data)
+
+data = [i for i in range(0,10001) if i % 2 == 0]
 print(data)
-
